@@ -38,3 +38,24 @@ This project was built to demonstrate **Java web development**, database connect
 ## 👨‍💻 Author
 **Kaif Shaik**  
 GitHub: https://github.com/Kaif7981
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🚘 Select Vehicle
+![Select Vehicle](screenshots/vehicle.png)
+
+### 🛠️ Book Repair
+![Book Repair](screenshots/repair.png)
+
+### ⛽ Fuel Delivery
+![Fuel Delivery](screenshots/fuel.png)
+
+
